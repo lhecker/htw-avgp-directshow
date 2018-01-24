@@ -1,0 +1,3 @@
+[submodule "src/cppwinrt"]
+	path = src/cppwinrt
+	url = https://github.com/Microsoft/cppwinrt.git
